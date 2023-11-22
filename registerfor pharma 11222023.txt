@@ -1,3 +1,16 @@
+@RequestMapping(value = "/register", method = RequestMethod.POST, headers = "Accept=application/json")
+	public ResponseEntity<String> addCustomer(@RequestBody Customer Login) {
+		try {
+			cserviceimpl.addCustomer(Login);
+            return ResponseEntity.ok("Registration successful");
+
+		}
+		catch (Exception e) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Registration failed");
+        }
+	}
+
+
 import axios from "axios";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
