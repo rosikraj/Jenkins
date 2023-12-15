@@ -1,0 +1,7 @@
+I created a new coupons for single use instance,Alternate Shipping credit
+
+I checked that coupons is applied for the items or not, if it is applied then the price is reduced or not
+
+I explored about catalog manager and created a table , In that tabled I added the attributes for Stores,Shopping,Custom's
+
+After that,I Added the items into table and downloaded that table, after that i published the items into the database and checked whether it is reflecting in the store or not
