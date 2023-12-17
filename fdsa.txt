@@ -1,7 +1,52 @@
-I created a new coupons for single use instance,Alternate Shipping credit
+---Turbify----
 
-I checked that coupons is applied for the items or not, if it is applied then the price is reduced or not
+==>
+>>it is a product
+>>
+first it is :yahoo small business
+	|
+second it is :verzion small business essessentials
+	|
+      know it is:Turbify
 
-I explored about catalog manager and created a table , In that tabled I added the attributes for Stores,Shopping,Custom's
 
-After that,I Added the items into table and downloaded that table, after that i published the items into the database and checked whether it is reflecting in the store or not
+Turbify Small Business Solutions
+It takes a lot to turn an idea into a business. Turbify, an Infinite company, provides tools and resources businesses need to succeed. It starts with a custom domain name and we have over 400 top level domains including .com, .info, .shop and more to help your business get the perfect web address. Next is your website, and we have a range of products from the easy self-service option with our Websites builder, hosting to allow you to build more custom websites using WordPress or other tools, and Stores for those building ecommerce businesses. We can even design, build and manage your website for you with Website Design Services.
+
+==>Turbify is a company that provides products and services for individuals and businesses looking to establish an online presence. From domain registration, web hosting, WordPress hosting and more, you'll find exactly what you need to grow and scale online. With over 25 years of experience and billions of dollars sold through our platform, Turbify is your online destination for your online success.
+
+Turbify Small Business
+=>Products:
+Domains
+Hosting
+WordPress Hosting
+Business Email
+E-commerce
+=>Resources:
+Customer Care
+Resource Center
+Developer Network
+Webinars
+Offers
+=>Services:
+Localworks
+Website Design
+
+
+==>A domain is your website name and the address where you are found on the internet. A domain name can be any combination of letters and numbers followed by an extension. You may recognize .com, which is the most common extension. But we offer hundreds of others to help you stand out. Every domain is unique and must be registered before you use it.
+
+==>Web Hosting service allows you to build a website and make it available on the internet for visitors to see and engage with. Turbify has the selection of hosting services you need based on your preferences.
+
+=>Business mail is an email account that has unique features and benefits businesses can take advantage of. A business email address will align with your domain and give your brand more credibility.
+
+=>Localworks is an all-in-one platform that helps you manage business listings across a network of 70+ directories including digital maps, apps, social networks, GPS systems, and search engines. These networks let business owners manage public information and facts about their business. Localworks puts you in control of how your business listings appear when potential customers search for businesses like yours online.
+
+=>To start, choose the types of products and/or services you plan to sell and decide to whom you want to sell them. This will help determine the type of Ecommerce platform and the features you need, and inform your site design. As soon as you launch your online store, there are strategies you can employ to drive the desired traffic to your site. Once you get them to your site, provide customers with a clear path to find what they need and how to purchase it.
+=>To create an ecommerce website:
+Develop a plan that includes defining what you’re selling and your target audience
+Choose an ecommerce platform to host your online store and register your domain name
+Choose a predesigned store template with a theme suited to your business and audience
+Alternatively, you can work with a developer to build a more customized store
+Once your site is live, look for ways to drive traffic to your online store to help increase sales
+
+=>
