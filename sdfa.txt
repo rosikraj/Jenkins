@@ -1,11 +1,13 @@
-To verify forget email link:
-1.set up  the proxy to QA environment.
-2.open turbify.com in browser.
-3.click on login link  in navbar.(check weather redirecting to login page or not)
-4.Give the valid credentials and click on login, you will landed in my services page if we entered incorrect details validation alert will be displayed.
-5.click on  forget password link it shoud be redirected to forget password recovery page.
-6.Give the email address and click on find account.
-7.choose your option via text a code to the mobile number on my account and click on continue you have to get a opt code to your registered mobile number.(but we not recieving otp).
-8.then choose your option via send a link to the primary email address on my account and click on continue you have to get a link on your primary email address.
-- open the primary mail and click on login it redirecting to login page.( as expect it should be set login email once again)
-9.then choose your option via send a link to the alternate email address on my account and click on continue you have to get a link on your alternate email address.(but not recieving link on alternate email address).
+1. Click on Turbify and verify redirection to the Turbify landing page.
+2. Click "Back to Sign-Up"  and confirm redirection to Sign-Up page or not
+3. Submitted without filling in the fields.
+4.With entering validate credientials it should redirect to My services page
+5.Without entering validate credientials it should show:Invalid user ID or password.
+6.click on  forget password link it shoud be redirected to forget password recovery page.
+7.Give the email address and click on find account.
+8.choose your option via text a code to the mobile number on my account and click on continue you have to get a opt code to your registered mobile number.(but we not recieving otp).
+9.then choose your option via send a link to the primary email address on my account and click on continue you have to get a link on your primary email address.
+- open the primary mail and click on login it redirecting to login page.( it should 
+show our mail-id or set new mail-id )
+10.then choose your option via send a link to the alternate email address on my account and click on continue you have to get a link on your alternate email address.(but not recieving link on alternate email address).
+11.Click on Turbify Business Mail it should redirect to sign-in to turbify mail
