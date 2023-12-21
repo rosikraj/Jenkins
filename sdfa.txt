@@ -1,0 +1,31 @@
+1)Click on turbify check whether it is redirecing to 
+turbify landing page or not 
+2)Click on Back to sign-in  check whether it is redirecting to sign-in page or not
+3)Without filling the fields i submitted 
+4)I Checked first name with numbers its not taking
+5)I Checked last name with numbers its not taking
+6)In mail I checked with combinations like:
+Not working cases:
+rosik, 1234, rosik@.com, rosikgmail.com,rosik@gmail,
+rosikraj.gmail.com,rosik@@gmail.com,
+rosik@rosik.@com.in,rosik?rosik@rosik.com
+Working Cases:
+rosik@gmail.com,rosik@rosik.com,rosik@rosik.com.in,rosik@rosik.rosik,karnati-rosik_raj@rosik.com.in.xyz,
+->Any special characters other that @ cannot enter in the Email filed .
+7)For Password:it should be atleast 8 Characters that 
+include an Upper case letter and Lower case letter,
+number,special character
+Not working cases:
+Rosik@111 ( Password has repeated characters. condition less than 3 it will take )
+Working cases: rosik@1122,rosik@11211,
+Ab1!@#$%^&*()_+}{":?><
+->Check Eye logo is showing passwords or not
+8)For Confirm Password:
+->Check without entering the confirm password 
+->Entering wrong password 
+->Entering Correct password
+->Check Eye Icon is showing the password or not
+9)Checking the links Terms of services and privacy 
+ policy are redirecting to its pages or not
+10)Click on Create Account it should redirect to 
+verification mail page 
