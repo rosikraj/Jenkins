@@ -1,13 +1,42 @@
-1. Click on Turbify and verify redirection to the Turbify landing page.
-2. Click "Back to Sign-Up"  and confirm redirection to Sign-Up page or not
-3. Submitted without filling in the fields.
-4.With entering validate credientials it should redirect to My services page
-5.Without entering validate credientials it should show:Invalid user ID or password.
-6.click on  forget password link it shoud be redirected to forget password recovery page.
-7.Give the email address and click on find account.
-8.choose your option via text a code to the mobile number on my account and click on continue you have to get a opt code to your registered mobile number.(but we not recieving otp).
-9.then choose your option via send a link to the primary email address on my account and click on continue you have to get a link on your primary email address.
-- open the primary mail and click on login it redirecting to login page.( it should 
-show our mail-id or set new mail-id )
-10.then choose your option via send a link to the alternate email address on my account and click on continue you have to get a link on your alternate email address.(but not recieving link on alternate email address).
-11.Click on Turbify Business Mail it should redirect to sign-in to turbify mail
+we are going to by a domain tld in turbify.com 
+-first sign up to turbify.com later select domain services and enter your domain name+tld you want after that click on search (page will go to checkout page)and after that choose any of them you want after choosing click on addtocart and then click on continue and then sign in and after that choose payment method and enter your details and click on coninue and pay for it .
+checkout purchase
+checkout review-review your order accepts terms and conditions and submit paymet 
+checkout confirmation -we will the order id and click on get started
+
+CHECKOUT:
+
+domain-tld selection
+checkout-new sign up or sign in
+
+-> If we purchase domain we will get free Business mail also
+
+
+DOMAINS-CONTROL PANELS
+>Domain summary and settings are there
+
+DOMAINS-CONTROL PANELS
+(ACCESS MANAGER)
+-> We can give roles/access to the users by using-add users(only Administrator access we can give) 
+
+DOMAINS-CONTROL PANELS
+
+(EMAIL)
+->Username:rosikraj@turbify-qa-account1.com
+Temporary Password:HrhWuTFKpKXjJED
+Login at:https://mail.turbify.com/login
+
+-> When we go though these link and sign-in with these details it will rediret to create a new password to access your manager(to change the temporary password)
+
+
+-> app password:etelstxmpoyljnbf
+
+(App Password Setup)-I Structed at here
+
+->
+DOMAINS:QUICK LINKS
+-we can view our link
+-billing information:we can see our subscriptions
+-plan cancel:chose the valid reason and click on cancel now
+-chance plan:we can switch to any service plans 
+-Addon:we can add addons like private domain registraion by selecting it and make payment if we want
