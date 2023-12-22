@@ -1,42 +1,23 @@
-we are going to by a domain tld in turbify.com 
--first sign up to turbify.com later select domain services and enter your domain name+tld you want after that click on search (page will go to checkout page)and after that choose any of them you want after choosing click on addtocart and then click on continue and then sign in and after that choose payment method and enter your details and click on coninue and pay for it .
-checkout purchase
-checkout review-review your order accepts terms and conditions and submit paymet 
-checkout confirmation -we will the order id and click on get started
+Pre-Sales:
+Pre-sales for a website means the things a company does before you buy something. It's like giving you information, answering questions, and making you interested in what they offer, so you're more likely to make a purchase.
 
-CHECKOUT:
+In presales we have,
+- Offer Banner,Turbify logo,Turbify Services,Resources,Help Center,Login
+-TLD Search bar,Offer Banners,Domain Benefits,Professional Support details,
+Frequently Asked Questions,Footer :in footer we have Products,Resources,
+Services,About Turbify and Privacy Policy | Terms of Service | Manage Cookies
 
-domain-tld selection
-checkout-new sign up or sign in
+->Plans:
+-In Domains we don't have plans we have offers
+-For Web Hosting we have 3 plans:Basic,Advanced,Premier
+-For Word Press we have 2 plans:Starter,Standard
+-For Business Email we have 4 plans:1Mailboxes,5Mailboxes,10Mailboxes,
+  20+Mailboxes.
+-For Website Design we have 2 plans:Standard,Premium
+-For Localworks we have 2 plans:Standard,Premium
+-For Stores we have 3 plans:Basic,Standard,Professional(But not working)
 
--> If we purchase domain we will get free Business mail also
-
-
-DOMAINS-CONTROL PANELS
->Domain summary and settings are there
-
-DOMAINS-CONTROL PANELS
-(ACCESS MANAGER)
--> We can give roles/access to the users by using-add users(only Administrator access we can give) 
-
-DOMAINS-CONTROL PANELS
-
-(EMAIL)
-->Username:rosikraj@turbify-qa-account1.com
-Temporary Password:HrhWuTFKpKXjJED
-Login at:https://mail.turbify.com/login
-
--> When we go though these link and sign-in with these details it will rediret to create a new password to access your manager(to change the temporary password)
-
-
--> app password:etelstxmpoyljnbf
-
-(App Password Setup)-I Structed at here
-
-->
-DOMAINS:QUICK LINKS
--we can view our link
--billing information:we can see our subscriptions
--plan cancel:chose the valid reason and click on cancel now
--chance plan:we can switch to any service plans 
--Addon:we can add addons like private domain registraion by selecting it and make payment if we want
+Checkout:
+Paying for the things you want to buy online
+Check Out Flow:
+he steps you take to pay for your online purchase, like entering your details and hitting 'buy'.
