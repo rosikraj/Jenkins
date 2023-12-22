@@ -1,23 +1,4 @@
-Pre-Sales:
-Pre-sales for a website means the things a company does before you buy something. It's like giving you information, answering questions, and making you interested in what they offer, so you're more likely to make a purchase.
-
-In presales we have,
-- Offer Banner,Turbify logo,Turbify Services,Resources,Help Center,Login
--TLD Search bar,Offer Banners,Domain Benefits,Professional Support details,
-Frequently Asked Questions,Footer :in footer we have Products,Resources,
-Services,About Turbify and Privacy Policy | Terms of Service | Manage Cookies
-
-->Plans:
--In Domains we don't have plans we have offers
--For Web Hosting we have 3 plans:Basic,Advanced,Premier
--For Word Press we have 2 plans:Starter,Standard
--For Business Email we have 4 plans:1Mailboxes,5Mailboxes,10Mailboxes,
-  20+Mailboxes.
--For Website Design we have 2 plans:Standard,Premium
--For Localworks we have 2 plans:Standard,Premium
--For Stores we have 3 plans:Basic,Standard,Professional(But not working)
-
-Checkout:
-Paying for the things you want to buy online
-Check Out Flow:
-he steps you take to pay for your online purchase, like entering your details and hitting 'buy'.
+I explored on different services and its plans and its checkout flow
+I Ordered one domain with TLD in turbify.com and checked its flow after that I checked it in My Services 
+In control panels I created a new business mail and Created a New User and given access to him 
+After that I ordered another service Web Hosting services and explored Control panels and Quick Links 
