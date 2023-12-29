@@ -41,3 +41,14 @@ By using these it will be handled:
 ->"async"-async keyword will make the function written a promise
 
 ->"await"-await keyword makes the function wait fot the promise
+
+HOW TO RUN?
+ 
+ npx playwright test  (runs all tests on all browsers in headless mode)
+ npx playwright test Mytest.spec.js --project=chromium   (runs on specfic browser)
+ npx playwright test Mytest.spec.js --headed (shows in browsers)
+
+ ------------------
+ Step by step execution mode (debug mode):
+ --debug
+ npx playwright test HomepageTest.spec.js --project=chromium  --headed --debug
