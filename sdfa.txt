@@ -1,4 +1,43 @@
-I explored on different services and its plans and its checkout flow
-I Ordered one domain with TLD in turbify.com and checked its flow after that I checked it in My Services 
-In control panels I created a new business mail and Created a New User and given access to him 
-After that I ordered another service Web Hosting services and explored Control panels and Quick Links 
+in playwright we can create test in two different ways :
+1) 1st approach is by using codegen plugin/test generator 
+2)write our own script and how can run the test
+
+--------
+
+How to start writing our test?
+ans:we use test block 
+->test ()
+-- in these we need to write Anonymous function and two parameters . 
+1)we need to pass first parameter is 'Title'of the test , we can provide any name of the test
+->test('HomepageTest')
+2)we need to pass Anonymous function ()=>{}, in the sense Open Bracket and Arrow function 
+
+-> test ('HomepageTest',()=>{
+})
+
+------------
+{page} --picture we have to pass inside the anonymous function
+->it contains so many functions and through them we can automate web application 
+->"we can access all the methods,to check element and get text from the page and launch web page" all these commands avaible in page (its is a picture in playwright)
+
+test ('HomepageTest',({page})=>{
+})
+
+--------------
+-We need to add these keywords:
+(async and await)
+
+-before the function start async should add
+-whenever we are accessing methods from the page picture , we have to add specify await
+
+test('Home page',async ({page})=>{
+
+await page.goto('https://www.google.com');
+
+-----------------------------
+javascript is async(parallelly all the steps execute but in automated test we want "step by step appraoch"to make that we have to handle promise.
+By using these it will be handled:
+
+->"async"-async keyword will make the function written a promise
+
+->"await"-await keyword makes the function wait fot the promise
